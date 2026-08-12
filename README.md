@@ -1,6 +1,6 @@
 # Hi, I’m Marina 👋
 
-**iOS Developer with 5+ years of commercial experience in fintech and food delivery products.**
+**iOS Developer with commercial experience in fintech and food delivery products.**
 
 I build high-load mobile applications with real-time features, background processing, and scalable architecture. Worked in international product teams, delivering features from design and architecture to production releases in the App Store. Focused on performance, stability, and measurable product impact.
 
